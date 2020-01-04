@@ -10,7 +10,7 @@ profile="default"
 port=443;
 
 # VPC id
-vpc_id="vpc-9ad889f1" #vpc-1a2b3c4d
+vpc_id="vpc-1a2b3c4d"
 
 # DO NOT EDIT BELOW THIS LINE UNLESS YOU KNOW WHAT YOU ARE DOING
 # ===============================
